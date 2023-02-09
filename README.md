@@ -51,7 +51,10 @@ Ans:
 • Differentiate between the JavaScript data types ‘null’ and ‘undefined’. \
 Ans: - The JavaScript null — also known as nill — is a keyword that normally represents the absence of value.
 
-    - undefined is a global property that represents the primitive data value undefined. The MDN documentation indicates three ways a system returns undefined. Firstly, when a variable has not been assigned a value yet. Secondly, when the variable that is being evaluated in a method or statement does not have an assigned value. Thirdly, when a function returns no value.
+    - undefined is a global property that represents the primitive data value undefined. There are 3 ways that indicates when a system returns undefined.
+    - Firstly, when a variable has not been assigned a value yet.
+    - Secondly, when the variable that is being evaluated in a method or statement does not have an assigned value.
+    - Thirdly, when a function returns no value.
 
 #
 
