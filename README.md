@@ -58,6 +58,8 @@ Ans: - The JavaScript null — also known as nill — is a keyword that normally
 
 #
 
-• In the ‘js-basics’ folder you created above, create a file and name it ‘index.js’. Inside the file, Write a function that multiples two numbers. Call that function to multiply any two numbers of your choice and log the answer in your console
-• In the same index.js file, create variables for your first name, last name, Stutern track, skills, favourite color, year of your country’s independence. Use these variables to form a sentence and log the sentence in the console.
-• Push your work into a Github repository and submit the Github repository link in Citrone.
+- In the ‘js-basics’ folder you created above, create a file and name it ‘index.js’. Inside the file, Write a function that multiples two numbers. Call that function to multiply any two numbers of your choice and log the answer in your console \
+
+- In the same index.js file, create variables for your first name, last name, Stutern track, skills, favourite color, year of your country’s independence. Use these variables to form a sentence and log the sentence in the console.\
+
+- Push your work into a Github repository and submit the Github repository link in Citrone.
